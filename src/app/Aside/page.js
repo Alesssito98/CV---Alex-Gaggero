@@ -38,8 +38,8 @@ export default function Aside() {
             <CardDescription>Para descargar el currículum haga clic en cualquiera de los siguientes enlaces.</CardDescription>
           </CardHeader>
           <CardContent>
-            <p>Currículum PDF</p>
-            <p>Currículum Para imprimir</p>
+            <p><a href='./curriculum-AlexGaggero.pdf' download="curriculum-AlexGaggero.pdf">Currículum PDF</a></p>
+            <p><a href='./curriculum-AlexGaggero-Imprimir.pdf' download="curriculum-AlexGaggero-Imprimir.pdf">Currículum Para imprimir</a></p>
           </CardContent>
         </Card>
       </div>
